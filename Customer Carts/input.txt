@@ -1,0 +1,34 @@
+#14235, Georges Politzer:	5355 Pen (2),
+							1351 Folder Case (1),
+		 	   				4412 Paper Clips (20).
+
+#51234, Ludwig Andreas Feuerbach:	1234 Board Marker (4),
+				  					1351 Folder Case (2),
+				  					1452 Color Sheet (50),
+				  					5355 Pen (1).
+
+#51351, Frida Kahlo:	73141 Canvas (5),
+		     			6535 Palette (1),
+		     			6536 Flat Brush 2 (1),
+		     			6537 Flat Brush 6 (1),
+		     			6542 Round Brush 12 (1),
+		     			7412 Linseed Oil (1).	
+
+#14256, Friedrich Engels:	4123 Dustless Chalk (5),
+			 				1234 Board Marker (2),
+			 				4412 Multipurpose A4 Paper (100),
+			 				2345 Scissors (1),
+			 				5354 Pencil (4).
+
+#42345, Arthur Schopenhauer:	2344 Pin (20),
+			    			4123 Dustless Chalk (2),
+			    			1452 Color Sheet (20),
+						    5353 Highlighter (4).
+
+#113526, Ursula K. Le Guin:	6111 Typewriter (1),
+			   				6665 Pencil Sharpener (1),
+			   				5136 Pencil (4),
+						    15667 Lightbulb (1),
+			   				1513 Ink (1).
+
+#113527, Georges Politzer:	5355 Pen (2).
